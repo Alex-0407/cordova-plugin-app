@@ -1,0 +1,41 @@
+<!--
+  This template loads for the 'tab.friend-detail' state (app.js)
+  'friend' is a $scope variable created in the FriendsCtrl controller (controllers.js)
+  The FriendsCtrl pulls data from the Friends service (service.js)
+  The Friends service returns an array of friend data
+-->
+<ion-view view-title="Attribute list">
+  <ion-header-bar align-title="center">
+    <!-- <div class="buttons">
+      <a class="button icon-left ion-ios-arrow-left button-positive button-clear" on-tap="goBack();"></a>
+    </div> -->
+    <h1 class="title">
+      cordova plugin demo
+    </h1>
+  </ion-header-bar>
+  <ion-content>
+    <div class="list" style="margin-top: 10px;">
+
+      <a class="item item-icon-right" on-tap="goHello();">
+        hello
+        <i class="icon ion-ios-arrow-right" style="color: gray;"></i>
+      </a>
+
+      <a class="item item-icon-right" on-tap="goToast();">
+        toast
+        <i class="icon ion-ios-arrow-right" style="color: gray;"></i>
+      </a>
+
+      <a class="item item-icon-right" on-tap="goDialog();">
+        dialog
+        <i class="icon ion-ios-arrow-right" style="color: gray;"></i>
+      </a>
+
+       <a class="item item-icon-right" on-tap="goScan();">
+        scan
+        <i class="icon ion-ios-arrow-right" style="color: gray;"></i>
+      </a>
+
+    </div>
+  </ion-content>
+</ion-view>

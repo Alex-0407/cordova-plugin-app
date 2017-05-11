@@ -1,0 +1,90 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1.3.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-statusbar@2.2.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device@1.1.4"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-console": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-console@1.0.5"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-splashscreen@~4.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "ionic-plugin-keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "ionic-plugin-keyboard@~2.2.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-hello": {
+        "source": {
+            "type": "local",
+            "path": "D:\\workspace\\public\\cordova\\hello"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-toast": {
+        "source": {
+            "type": "local",
+            "path": "D:\\workspace\\public\\cordova\\cordova-plugin-toast"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-scan": {
+        "source": {
+            "type": "local",
+            "path": "D:\\workspace\\public\\cordova\\cordova-plugin-scan"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialog": {
+        "source": {
+            "type": "local",
+            "path": "D:\\workspace\\public\\cordova\\cordova-plugin-dialog"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-exitDialog": {
+        "source": {
+            "type": "local",
+            "path": "D:\\workspace\\public\\cordova\\cordova-plugin-exitDialog"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
