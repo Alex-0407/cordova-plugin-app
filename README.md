@@ -29,7 +29,8 @@ https://github.com/Alex-0407/cordova-plugin-app
 
 「新浪云福利」1000云豆免费领！低成本、免运维、灵活、安全稳定，轻松应对业务爆发式增长，一起来用吧！ 注册地址：http://t.cn/R5oFIaD
 
-#### 欢迎关注我的微信公众号`全栈弄潮儿`，获取更多 `angular`、`ionic`、`cordova`、`react`、`vue`、`nodejs`、`android`、`ios` 等学习资源
+#### 欢迎关注我的微信公众号`全栈弄潮儿`
+#### 获取更多 `angular`、`ionic`、`cordova`、`react`、`vue`、`nodejs`、`android`、`ios` 等学习资源
 
 * 扫一扫下面的二维码或者搜索"全栈弄潮儿"
 
