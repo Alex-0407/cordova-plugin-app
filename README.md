@@ -23,6 +23,18 @@ cordova-plugin-demo
 ### 项目地址
 https://github.com/Alex-0407/cordova-plugin-app
 
+### 用到的自定义cordova插件
+
+https://github.com/Alex-0407/cordova-plugin-customHello
+
+https://github.com/Alex-0407/cordova-plugin-customToast
+
+https://github.com/Alex-0407/cordova-plugin-customDialog
+
+https://github.com/Alex-0407/cordova-plugin-customExitDialog
+
+https://github.com/Alex-0407/cordova-plugin-customScan
+
 ### 新浪云活动
 
 新浪云平台Sina App Engine(SAE)，是由新浪公司开发和运营的开放云计算平台的核心组成部分，国内第一家公有云计算平台，可以为网站开发者，App开发者提供稳定、快捷、透明、可控的服务化的平台，并且减少开发者的开发和维护成本。
