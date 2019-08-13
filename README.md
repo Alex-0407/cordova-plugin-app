@@ -21,19 +21,19 @@ cordova-plugin-demo
 
 
 ### 项目地址
-https://github.com/Alex-0407/cordova-plugin-app
+https://github.com/artdong/cordova-plugin-app
 
 ### 用到的自定义cordova插件
 
-https://github.com/Alex-0407/cordova-plugin-customHello
+https://github.com/artdong/cordova-plugin-customHello
 
-https://github.com/Alex-0407/cordova-plugin-customToast
+https://github.com/artdong/cordova-plugin-customToast
 
-https://github.com/Alex-0407/cordova-plugin-customDialog
+https://github.com/artdong/cordova-plugin-customDialog
 
-https://github.com/Alex-0407/cordova-plugin-customExitDialog
+https://github.com/artdong/cordova-plugin-customExitDialog
 
-https://github.com/Alex-0407/cordova-plugin-customScan
+https://github.com/artdong/cordova-plugin-customScan
 
 ### 新浪云活动
 
@@ -46,4 +46,4 @@ https://github.com/Alex-0407/cordova-plugin-customScan
 
 * 扫一扫下面的二维码或者搜索"全栈弄潮儿"
 
-<img src="https://github.com/Alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
+<img src="https://github.com/artdong/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
