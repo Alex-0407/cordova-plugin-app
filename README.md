@@ -9,7 +9,7 @@ cordova-plugin-demo
 
 ### Installation & Development
 
-1. clone this repo: `git clone https://github.com/Alex-0407/cordova-plugin-app.git`
+1. clone this repo: `git clone https://github.com/artdong/cordova-plugin-app.git`
 2. `cd cordova-plugin-app`
 3. `npm install`
 3. `ionic platform add android`
@@ -17,7 +17,7 @@ cordova-plugin-demo
 
 ### 效果预览
 
-![动态图](https://github.com/Alex-0407/cordova-plugin-app/blob/master/www/img/plugin.gif?raw=true)
+![动态图](https://github.com/artdong/cordova-plugin-app/blob/master/www/img/plugin.gif?raw=true)
 
 
 ### 项目地址
